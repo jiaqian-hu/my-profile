@@ -1,0 +1,7 @@
+Social icons: Font Awesome Free 6.7.2, by Fonticons, Inc.
+GitHub: https://github.com/FortAwesome/Font-Awesome/blob/6.7.2/svgs/brands/github.svg
+LinkedIn: https://github.com/FortAwesome/Font-Awesome/blob/6.7.2/svgs/brands/linkedin-in.svg
+Envelope: https://github.com/FortAwesome/Font-Awesome/blob/6.7.2/svgs/solid/envelope.svg
+SVG icon license: CC BY 4.0, https://creativecommons.org/licenses/by/4.0/
+Changes: recolored blue and exported to PNG for local use.
+The other line icons were drawn for this profile page.
